@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div1 {
+    position: absolute;
+    background-color: black;
+    height: 100px;
+    width: 100px;    
+}
+
+
+.div2 {
+    position: absolute;
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    right: 0px;
+    top: 0px;
+}
+
+.div3 {
+    position: absolute;
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    bottom: 0px;
+}
+
+.div4 {
+    position: absolute;
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    bottom: 0px;
+    right: 0px;
+}
